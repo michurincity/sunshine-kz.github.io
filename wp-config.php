@@ -29,7 +29,7 @@ define('DB_USER', 'root');
 define('DB_PASSWORD', '4jWbfQDajDRdhnK5');
 
 /** Имя сервера MySQL */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'sunshine-kz.github.io');
 
 /** Кодировка базы данных для создания таблиц. */
 define('DB_CHARSET', 'utf8');
